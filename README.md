@@ -47,6 +47,14 @@
 
     : key-value 값으로 존재하는 객체를 말한다.
 
+👉Function
+
+    : 함수에도 타입을 적어줘야 한다.
+    : 반환 값이 없는 경우 void 사용
+
+    ✔️ 9.ts
+        : function Add( input ) output {}
+
 ---
 
 # 참고 자료
