@@ -13,7 +13,7 @@
     ✔️ 코드 실습
         step 01. 코드 작성
         step 02. npm install typescript
-        step 03. npx tsc 2.ts (올바르게 작성되었으면, js 파일이 생성된다.)
+        step 03. npx tsc 2.ts
         step 04. node 2.ts
 
 👉 TS 타입 알아보기
@@ -23,3 +23,17 @@
         string : 문자를 담을 때
         number : 숫자를 담을 때
         boolean : 참/거짓을 담을 때
+
+👉 null/ undefined (유니언 타입)
+
+    : 값을 할당할 수 없다 == 값을 할당하려고 하면 에러 발생 !
+
+
+    ✔️ 초기화 여부
+        : undefined( 초기화 하지 않음 ) VS null(초기화 후 null 값 할당)
+
+---
+
+# 참고 자료
+
+https://radlohead.gitbook.io/typescript-deep-dive/recap/null-undefined
