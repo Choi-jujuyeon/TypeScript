@@ -13,5 +13,13 @@
     ✔️ 코드 실습
         step 01. 코드 작성
         step 02. npm install typescript
-        step 03. npx tsc 2.ts
+        step 03. npx tsc 2.ts (올바르게 작성되었으면, js 파일이 생성된다.)
         step 04. node 2.ts
+
+👉 TS 타입 알아보기
+
+    ✔️ string/number/boolean
+
+        string : 문자를 담을 때
+        number : 숫자를 담을 때
+        boolean : 참/거짓을 담을 때
